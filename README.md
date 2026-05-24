@@ -7,10 +7,11 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=baoloc7401&label=Profile+Views&color=7c3aed&style=flat-square)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baoloc7401@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=baoloc7401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white)](mailto:baoloc7401@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltbldominic/)
 [![DominicLC](https://img.shields.io/badge/%40DominicLC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DominicLC)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square)](mailto:baoloc7401@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=baoloc7401@gmail.com)
 
 [![Flag Counter](https://s01.flagcounter.com/count2/aIXL/bg_0D1117/txt_A78BFA/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/aIXL)
 
@@ -28,7 +29,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-### So, who are you?
+### So, who am I?
 
 Three years at **Vitalify Asia**: started on a WebSocket game backend for a live-streaming platform, then owned the architecture of a **health app with 1M+ daily users**, and now building a **GPT-4o RAG pipeline** wired to Azure AI Search so the chatbot pulls answers from real indexed data.
 
@@ -168,7 +169,8 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 ### Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltbldominic/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baoloc7401@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=baoloc7401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baoloc7401@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baoloc7401)
 [![DominicLC](https://img.shields.io/badge/DominicLC-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DominicLC)
 
