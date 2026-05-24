@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bao%20Loc&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Ships+code+that+scales+%C2%B7+Currently+wiring+AI+to+real+data&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Le%20Tran%20Bao%20Loc&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend+%2F+Full-Stack+Engineer+%C2%B7+Vietnam+%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=780&lines=I+build+backends+that+don%27t+flinch+at+scale.;1M%2B+users+served+%C2%B7+70%2B+APIs+shipped+%C2%B7+AI+in+prod;Currently%3A+wiring+LLMs+to+real+knowledge+bases.;Vietnam+%F0%9F%87%BB%F0%9F%87%B3+%C2%B7+Open+to+what%27s+next+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=780&lines=3+years+building+things+people+actually+use.;1M%2B+users+%C2%B7+70%2B+APIs+%C2%B7+RAG+in+production;NestJS+%C2%B7+AWS+%C2%B7+TypeScript+%C2%B7+LangChain.js;Vietnam+%F0%9F%87%BB%F0%9F%87%B3+%C2%B7+Open+to+new+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,11 +28,9 @@
 
 ### So, who are you?
 
-Backend-first engineer who got pulled into full-stack — and never looked back.
+Three years at **Vitalify Asia**: started on a WebSocket game backend for a live-streaming platform, then owned the architecture of a **health app with 1M+ daily users**, and now building a **GPT-4o RAG pipeline** wired to Azure AI Search so the chatbot pulls answers from real indexed data.
 
-Three years at **Vitalify Asia** took me from wiring **WebSocket game servers** for a live-streaming platform, to owning the architecture of a **health app 1M+ people quietly depend on every day**, to right now: building **RAG pipelines** where GPT-4o actually answers questions from a real indexed knowledge base instead of confidently making things up.
-
-I like systems that hold under load, deployments that don't call for your attention at 3am, and code that ships without drama. Based in 🇻🇳 **Ho Chi Minh City**. Also building SaaS at [**@DominicLC**](https://github.com/DominicLC). Open to what's next.
+Backend first, ended up full-stack. Based in 🇻🇳 **Ho Chi Minh City**. Also shipping SaaS at [**@DominicLC**](https://github.com/DominicLC). Open to new roles.
 
 ---
 
@@ -48,7 +46,7 @@ I like systems that hold under load, deployments that don't call for your attent
 
 ### 🧪 Also in the Arsenal
 
-*Self-learned. Not on the CV — but real.*
+*Self-learned. Not on the CV, but real.*
 
 <div align="center">
 
@@ -61,34 +59,34 @@ I like systems that hold under load, deployments that don't call for your attent
 ### 📜 The Journey
 
 <details>
-<summary><b>🤖 Teaching AI to stop hallucinating &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Mid 2024 – Present</b></summary>
+<summary><b>🤖 GPT-4o + RAG pipeline &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Vitalify Asia &nbsp;·&nbsp; Mid 2024 – Present</b></summary>
 <br/>
 
 > `VueJS` `NestJS` `LangChain.js` `OpenAI GPT-4o` `Azure AI Search` `AWS` `Terraform` `Datadog`
 
-Built an AI chatbot that doesn't just generate — it **retrieves and reasons**. Wired GPT-4o to an Azure AI Search vector store so it answers from indexed knowledge bases, not thin air. Full-stack ownership: VueJS frontend, NestJS backend, AWS infra managed end-to-end with Terraform. Datadog watching over everything so we actually know when something breaks.
+Built an AI chatbot with a full RAG pipeline: GPT-4o reads from indexed knowledge bases via **Azure AI Search** as a vector store, so it answers from actual data. VueJS frontend, NestJS backend, AWS infrastructure managed with Terraform. Datadog for monitoring.
 
 <br/>
 </details>
 
 <details>
-<summary><b>⚙️ Scaling a health app to a million people &nbsp;·&nbsp; Backend Engineer + DevOps &nbsp;·&nbsp; Mid 2022 – Mid 2024</b></summary>
+<summary><b>⚙️ Health app backend: 1M+ users, 70+ APIs &nbsp;·&nbsp; Backend Engineer + DevOps &nbsp;·&nbsp; Vitalify Asia &nbsp;·&nbsp; Mid 2022 – Mid 2024</b></summary>
 <br/>
 
 > `NestJS` `MySQL` `Redis` `MongoDB` `Docker` `AWS` `Terraform`
 
-Designed and owned the backend for a cross-platform health app — **70+ APIs, 20+ features**, 1M+ active users. Architected for reliability: MySQL + Redis + MongoDB, containerised with Docker, deployed on AWS and version-controlled with Terraform. Led disaster recovery planning. Recognized by executives as a top performer for shipping everything on time and on budget.
+Designed and owned the backend for a cross-platform health app: **70+ APIs, 20+ features**, 1M+ active users. Full architecture ownership from day one. Led disaster recovery planning. Recognized by executives as a top performer for shipping everything on time and on budget.
 
 <br/>
 </details>
 
 <details>
-<summary><b>🎮 A WebSocket server for 100 players that had no right to work as well as it did &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Early 2022 – Mid 2022</b></summary>
+<summary><b>🎮 Live-streaming game backend &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Vitalify Asia &nbsp;·&nbsp; Early 2022 – Mid 2022</b></summary>
 <br/>
 
 > `Node.js` `WebSocket` `AWS API Gateway`
 
-Built the game backend for a Unity title on a debut live-streaming platform — **API Gateway-powered WebSockets**, 100 concurrent players, zero drama. First real taste of real-time systems under pressure.
+Built the backend for a Unity game on a live-streaming platform. API Gateway WebSockets, 100 concurrent players. First production experience with real-time systems.
 
 <br/>
 </details>
@@ -99,7 +97,7 @@ Built the game backend for a Unity title on a debut live-streaming platform — 
 
 **University of Information Technology – VNUHCM** &nbsp;·&nbsp; Ho Chi Minh City
 Bachelor of Engineering, Software Engineering &nbsp;·&nbsp; **GPA 8.55 / 10** &nbsp;·&nbsp; 2019–2023
-<sub>School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320</sub>
+School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 
 ---
 
@@ -109,7 +107,7 @@ Bachelor of Engineering, Software Engineering &nbsp;·&nbsp; **GPA 8.55 / 10** &
 
 [![PDF](https://img.shields.io/badge/Download-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/baoloc7401/baoloc7401/raw/main/cv/Le%20Tran%20Bao%20Loc%20CV.pdf)
 [![DOCX](https://img.shields.io/badge/Download-DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](https://github.com/baoloc7401/baoloc7401/raw/main/cv/Le%20Tran%20Bao%20Loc%20CV.docx)
-[![HTML](https://img.shields.io/badge/View-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/baoloc7401/baoloc7401/blob/main/cv/Le%20Tran%20Bao%20Loc%20CV.html)
+[![HTML](https://img.shields.io/badge/View-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/baoloc7401/baoloc7401/blob/main/cv/Le%20Tran%20Bao%20Loc%20CV.html)
 
 </div>
 
@@ -136,7 +134,7 @@ Bachelor of Engineering, Software Engineering &nbsp;·&nbsp; **GPA 8.55 / 10** &
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baoloc7401&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-> *📌 Graph looking suspiciously quiet? Don't panic — I'm not gone, just consumed by work, private repos, and the existential dread of production bugs. The commits are happening. They're just classified.*
+> *📌 Graph looking quiet? Don't panic. I'm not gone, just buried in private repos and production incidents. The commits are happening. They're just classified.*
 
 ---
 
