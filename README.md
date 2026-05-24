@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=baoloc7401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baoloc7401&theme=tokyonight" />
 
 ### 👨‍💻 About Me
 
@@ -57,8 +57,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baoloc7401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoloc7401&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baoloc7401&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baoloc7401&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baoloc7401&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -70,6 +74,8 @@
 ### 🔥 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baoloc7401&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+> *📌 Graph looking suspiciously quiet? Don't panic — I'm not gone, just consumed by work, private repos, and the existential dread of production bugs. The commits are happening. They're just classified.*
 
 ---
 
