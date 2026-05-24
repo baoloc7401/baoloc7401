@@ -12,9 +12,11 @@
 [![DominicLC](https://img.shields.io/badge/%40DominicLC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DominicLC)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2ea44f?style=flat-square)](mailto:baoloc7401@gmail.com)
 
+[![Flag Counter](https://s01.flagcounter.com/count2/aIXL/bg_0D1117/txt_A78BFA/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/aIXL)
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 <div align="center">
 
@@ -24,7 +26,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### So, who are you?
 
@@ -32,7 +34,7 @@ Three years at **Vitalify Asia**: started on a WebSocket game backend for a live
 
 Backend first, ended up full-stack. Based in 🇻🇳 **Ho Chi Minh City**. Also shipping SaaS at [**@DominicLC**](https://github.com/DominicLC). Open to new roles.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🛠️ Daily Drivers
 
@@ -54,7 +56,7 @@ Backend first, ended up full-stack. Based in 🇻🇳 **Ho Chi Minh City**. Also
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 📜 The Journey
 
@@ -91,7 +93,7 @@ Built the backend for a Unity game on a live-streaming platform. API Gateway Web
 <br/>
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🎓 Where it started
 
@@ -99,7 +101,7 @@ Built the backend for a Unity game on a live-streaming platform. API Gateway Web
 Bachelor of Engineering, Software Engineering &nbsp;·&nbsp; **GPA 8.55 / 10** &nbsp;·&nbsp; 2019–2023
 School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 📄 Grab my CV
 
@@ -111,7 +113,7 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 📊 Proof of Work
 
@@ -128,7 +130,11 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
   <img src="https://streak-stats.demolab.com?user=baoloc7401&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/baoloc7401/baoloc7401/3d-output/profile-night-rainbow.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🔥 Still alive
 
@@ -144,9 +150,7 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 </picture>
 </div>
 
----
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ### 🎲 Reload for a new one
 
@@ -162,7 +166,7 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 <div align="center">
 
