@@ -118,12 +118,7 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 ### 📊 Proof of Work
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baoloc7401&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baoloc7401&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baoloc7401&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baoloc7401&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 <div align="center">
