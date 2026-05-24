@@ -136,6 +136,32 @@ School Encourage Scholarship 2020 &nbsp;·&nbsp; TOEIC LR 925 / SW 320
 
 > *📌 Graph looking quiet? Don't panic. I'm not gone, just buried in private repos and production incidents. The commits are happening. They're just classified.*
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baoloc7401/baoloc7401/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baoloc7401/baoloc7401/output/github-contribution-grid-snake.svg">
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/baoloc7401/baoloc7401/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+---
+
+---
+
+### 🎲 Reload for a new one
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 ---
 
 <div align="center">
